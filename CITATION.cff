@@ -1,0 +1,82 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Xyce(™) Parallel Electronic Simulator v.7.6
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - email:
+    given-names: Eric R.
+    family-names: Keiter
+  - email:
+    given-names: Richard L.
+    family-names: Schiek
+    orcid:
+    affiliation: Sandia National Laboratories
+  - email:
+    given-names: Heidi K.
+    family-names: Thornquist
+    orcid:
+    affiliation: Sandia National Laboratories
+  - email:
+    given-names: Ting
+    family-names: Mei
+    orcid:
+    affiliation: Sandia National Laboratories
+  - email:
+    given-names: Jason C.
+    family-names: Verley
+    orcid: 'https://orcid.org/0000-0003-2184-677X'
+    affiliation: Sandia National Laboratories
+  - email:
+    given-names: Karthik V.
+    family-names: Aadithya
+    orcid:
+    affiliation: Sandia National Laboratories
+  - email:
+    given-names: Josh D.
+    family-names: Schickling
+    orcid:
+    affiliation: Sandia National Laboratories
+  - email:
+    given-names: Paul A.
+    family-names: Kuberry
+    orcid:
+    affiliation: Sandia National Laboratories
+  - email:
+    given-names: Gary J.
+    family-names: Templet
+    orcid:
+    affiliation: Sandia National Laboratories
+contact:
+  - affiliation: Sandia National Laboratories
+    email: xyce@sandia.gov
+identifiers:
+  - description: DOE CODE
+    type: doi
+    value: 10.11578/dc.20220802.13
+repository-code: "https://github.com/Xyce/Xyce"
+url: "https://xyce.sandia.gov"
+abstract: >-
+  Xyce is an open-source, SPICE-compatible, high-performance analog circuit
+  simulator developed at Sandia National Laboratories. It supports serial
+  execution on a variety of systems, including Linux, MacOS and Windows. Xyce
+  can also be built to run in parallel on large-scale computing platforms, with
+  support for several parallel solvers, making it capable of solving extremely
+  large circuit problems. In addition to the standard SPICE analyses, Xyce
+  supports Harmonic Balance, Random Sampling Analysis, and sophisticated
+  sensitivity analysis methods. It can also couple to other tools via a C API,
+  which can be leveraged via Python, MatLab, or other codes. Finally, Xyce has
+  a robust set of standard compact models, and it supports a subset of
+  Verilog-A through an ADMS-based back-end that can be used for compact model
+  development.  
+keywords:
+  - analog circuit simulation
+  - SPICE
+license: GPL-3.0-or-later
+commit: 046a561ee2db376cf459edaeb8b6b67563da980d
+version: 7.6.0
+date-released: '2022-11-08'
