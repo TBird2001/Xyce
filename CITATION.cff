@@ -1,6 +1,3 @@
-# This CITATION.cff file was generated with cffinit.
-# Visit https://bit.ly/cffinit to generate yours today!
-
 cff-version: 1.2.0
 title: Xyce(™) Parallel Electronic Simulator v.7.6
 message: >-
@@ -54,10 +51,6 @@ authors:
 contact:
   - affiliation: Sandia National Laboratories
     email: xyce@sandia.gov
-identifiers:
-  - description: DOE CODE
-    type: doi
-    value: 10.11578/dc.20220802.13
 repository-code: "https://github.com/Xyce/Xyce"
 url: "https://xyce.sandia.gov"
 doi: 10.11578/dc.20220802.13
