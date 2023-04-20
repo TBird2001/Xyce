@@ -60,6 +60,7 @@ identifiers:
     value: 10.11578/dc.20220802.13
 repository-code: "https://github.com/Xyce/Xyce"
 url: "https://xyce.sandia.gov"
+doi: 10.11578/dc.20220802.13
 abstract: >-
   Xyce is an open-source, SPICE-compatible, high-performance analog circuit
   simulator developed at Sandia National Laboratories. It supports serial
